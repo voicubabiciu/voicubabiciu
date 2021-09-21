@@ -75,6 +75,6 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x7665786f&layout=compact&count_private=true&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voicubabiciu&layout=compact&count_private=true&theme=github_dark&hide_border=true)
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0x7665786f&count_private=true&theme=github_dark&hide_border=true)
 
