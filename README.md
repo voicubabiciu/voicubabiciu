@@ -1,5 +1,4 @@
 #### < Hello world, I'm **Voicu Babiciu** > <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>
-  
 
 ```dart
 
@@ -28,6 +27,8 @@ final Map<String, dynamic> voicu = <String, dynamic>{
   };
   
 ```
+### Now Listening 🎧
+[![Spotify](https://voicubabiciu.vercel.app/api/spotify)](https://open.spotify.com/user/vbfx10)
 
 #### Contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/voicu-b-b28860131/)
@@ -72,6 +73,7 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 ![arduino](https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![c++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white)
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
 
 
 
