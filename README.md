@@ -26,7 +26,7 @@ final Map<String, dynamic> voicu = <String, dynamic>{
   };
   
 ```
-### Now Listening 🎧
+### Now listening 🎧
 [![Spotify](https://voicubabiciu.vercel.app/api/spotify)](https://open.spotify.com/user/vbfx10)
 
 ### Contact
