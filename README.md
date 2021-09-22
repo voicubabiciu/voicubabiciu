@@ -74,6 +74,8 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 ![c++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white)
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voicubabiciu&layout=compact&count_private=true&theme=github_dark&hide_border=true)
+
 
 <!--START_SECTION:waka-->
 ```text
@@ -87,6 +89,4 @@ Kotlin       32 mins         █▒░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voicubabiciu&layout=compact&count_private=true&theme=github_dark&hide_border=true)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0x7665786f&count_private=true&theme=github_dark&hide_border=true)
 
