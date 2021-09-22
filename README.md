@@ -78,15 +78,6 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 
 
 <!--START_SECTION:waka-->
-```text
-Week: 15 September, 2021 - 21 September, 2021
-
-Dart         4 hrs 23 mins   ████████████░░░░░░░░░░░░░   47.85 % 
-TypeScript   1 hr 28 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Properties   1 hr 21 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-XML          36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Kotlin       32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-```
 <!--END_SECTION:waka-->
 
 
