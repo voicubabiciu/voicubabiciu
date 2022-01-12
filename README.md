@@ -61,7 +61,7 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 
 **🐱 My GitHub Data** 
 
-> 🏆 22 Contributions in the Year 2022
+> 🏆 23 Contributions in the Year 2022
  > 
 > 📦 310.4 kB Used in GitHub's Storage 
  > 
@@ -100,13 +100,15 @@ Sunday       20 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     55 mins             ████████████████████████░   95.95% 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  57 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      57 mins             █████████████████████████   100.0%
 
 ```
 
@@ -123,7 +125,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/01/2022
+ Last Updated on 12/01/2022
 <!--END_SECTION:waka-->
 
 
