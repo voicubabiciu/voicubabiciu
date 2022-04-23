@@ -55,15 +55,15 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 88 Contributions in the Year 2022
+> 🏆 89 Contributions in the Year 2022
  > 
-> 📦 328.5 kB Used in GitHub's Storage 
+> 📦 328.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -100,17 +100,17 @@ Sunday       20 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-Dart                     9 hrs 58 mins       █████████████████████░░░░   86.36% 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.05% 
-XML                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.16% 
-Other                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.97% 
-HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9%
+Dart                     6 hrs 37 mins       █████████████████████░░░░   84.4% 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.43% 
+Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.37% 
+HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.8% 
+TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61%
 
 🔥 Editors: 
-VS Code                  11 hrs 32 mins      █████████████████████████   100.0%
+VS Code                  7 hrs 50 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      11 hrs 32 mins      █████████████████████████   100.0%
+Mac                      7 hrs 50 mins       █████████████████████████   100.0%
 
 ```
 
@@ -127,7 +127,7 @@ PHP                      2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 22/04/2022 00:40:10 UTC
+ Last Updated on 23/04/2022 00:35:59 UTC
 <!--END_SECTION:waka-->
 
 
