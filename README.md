@@ -55,7 +55,7 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-588%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -63,7 +63,7 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 
 **🐱 My GitHub Data** 
 
-> 🏆 202 Contributions in the Year 2022
+> 🏆 203 Contributions in the Year 2022
  > 
 > 📦 329.7 kB Used in GitHub's Storage 
  > 
@@ -90,8 +90,8 @@ Tuesday      22 commits     ███░░░░░░░░░░░░░░�
 Wednesday    31 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.45% 
 Thursday     24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
 Friday       24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Saturday     17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.12% 
-Sunday       23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.69%
+Saturday     18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
+Sunday       22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.1%
 
 ```
 
@@ -102,13 +102,14 @@ Sunday       23 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-Dart                     4 hrs 17 mins       █████████████████████████   100.0%
+Dart                     5 hrs 59 mins       █████████████████████████   99.88% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
 
 🔥 Editors: 
-VS Code                  4 hrs 17 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 59 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      4 hrs 17 mins       █████████████████████████   100.0%
+Mac                      5 hrs 59 mins       █████████████████████████   100.0%
 
 ```
 
@@ -125,7 +126,7 @@ PHP                      2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 20/08/2022 00:41:46 UTC
+ Last Updated on 21/08/2022 00:43:52 UTC
 <!--END_SECTION:waka-->
 
 
