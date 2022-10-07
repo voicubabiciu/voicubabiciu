@@ -55,7 +55,7 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-675%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-675%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -63,7 +63,7 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 
 **🐱 My GitHub Data** 
 
-> 🏆 256 Contributions in the Year 2022
+> 🏆 257 Contributions in the Year 2022
  > 
 > 📦 332.8 kB Used in GitHub's Storage 
  > 
@@ -88,8 +88,8 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 Monday       24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.37% 
 Tuesday      24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.37% 
 Wednesday    32 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.16% 
-Thursday     23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.77% 
-Friday       24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.37% 
+Thursday     24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.37% 
+Friday       23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.77% 
 Saturday     17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.18% 
 Sunday       23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.77%
 
@@ -102,14 +102,13 @@ Sunday       23 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-Dart                     4 hrs 37 mins       ████████████████████████░   96.07% 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.93%
+Dart                     3 hrs 40 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  4 hrs 48 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 40 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      4 hrs 48 mins       █████████████████████████   100.0%
+Mac                      3 hrs 40 mins       █████████████████████████   100.0%
 
 ```
 
@@ -126,7 +125,7 @@ PHP                      2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 06/10/2022 00:55:08 UTC
+ Last Updated on 07/10/2022 01:05:38 UTC
 <!--END_SECTION:waka-->
 
 
