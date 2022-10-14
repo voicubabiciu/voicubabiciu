@@ -55,7 +55,7 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-679%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-680%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -63,7 +63,7 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 
 **🐱 My GitHub Data** 
 
-> 🏆 262 Contributions in the Year 2022
+> 🏆 263 Contributions in the Year 2022
  > 
 > 📦 332.8 kB Used in GitHub's Storage 
  > 
@@ -102,14 +102,14 @@ Sunday       23 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-Dart                     4 hrs 45 mins       ███████████████████████░░   94.93% 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.07%
+Dart                     5 hrs 12 mins       ███████████████████████░░   93.29% 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.71%
 
 🔥 Editors: 
-VS Code                  5 hrs               █████████████████████████   100.0%
+VS Code                  5 hrs 35 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      5 hrs               █████████████████████████   100.0%
+Mac                      5 hrs 35 mins       █████████████████████████   100.0%
 
 ```
 
@@ -126,7 +126,7 @@ PHP                      2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 13/10/2022 00:57:24 UTC
+ Last Updated on 14/10/2022 01:04:05 UTC
 <!--END_SECTION:waka-->
 
 
