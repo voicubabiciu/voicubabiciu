@@ -55,7 +55,7 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-740%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-744%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -63,7 +63,7 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 
 **🐱 My GitHub Data** 
 
-> 🏆 291 Contributions in the Year 2022
+> 🏆 292 Contributions in the Year 2022
  > 
 > 📦 333.0 kB Used in GitHub's Storage 
  > 
@@ -73,6 +73,46 @@ final Map<String, dynamic> voicu = <String, dynamic>{
  > 
 > 🔑 16 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.39% 
+🌆 Daytime    19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.38% 
+🌃 Evening    30 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.96% 
+🌙 Night      109 commits    ████████████████░░░░░░░░░   65.27%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.37% 
+Tuesday      24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.37% 
+Wednesday    32 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.16% 
+Thursday     25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.97% 
+Friday       23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.77% 
+Saturday     17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.18% 
+Sunday       22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.17%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Bucharest
+
+💬 Programming Languages: 
+Dart                     9 hrs 21 mins       ███████████████████████░░   95.14% 
+Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.86%
+
+🔥 Editors: 
+VS Code                  9 hrs 49 mins       █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      9 hrs 49 mins       █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -86,7 +126,7 @@ PHP                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2022 00:44:32 UTC
+ Last Updated on 11/11/2022 00:48:24 UTC
 <!--END_SECTION:waka-->
 
 
