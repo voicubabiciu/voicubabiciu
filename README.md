@@ -55,7 +55,7 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-786%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-788%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -63,9 +63,9 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 
 **🐱 My GitHub Data** 
 
-> 🏆 318 Contributions in the Year 2022
+> 🏆 319 Contributions in the Year 2022
  > 
-> 📦 333.1 kB Used in GitHub's Storage 
+> 📦 333.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -87,10 +87,10 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 ```text
 Monday       25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.97% 
 Tuesday      25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.97% 
-Wednesday    31 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.56% 
+Wednesday    32 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.16% 
 Thursday     23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.77% 
 Friday       22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.17% 
-Saturday     18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.78% 
+Saturday     17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.18% 
 Sunday       23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.77%
 
 ```
@@ -102,14 +102,14 @@ Sunday       23 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-Dart                     3 hrs 31 mins       █████████████████████████   99.72% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
+Dart                     5 hrs 37 mins       ████████████████████████░   99.14% 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86%
 
 🔥 Editors: 
-VS Code                  3 hrs 32 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 40 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      3 hrs 32 mins       █████████████████████████   100.0%
+Mac                      5 hrs 40 mins       █████████████████████████   100.0%
 
 ```
 
@@ -126,7 +126,7 @@ PHP                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/12/2022 00:40:04 UTC
+ Last Updated on 08/12/2022 00:37:56 UTC
 <!--END_SECTION:waka-->
 
 
