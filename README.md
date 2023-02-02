@@ -55,21 +55,21 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-862%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-864%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 35 Contributions in the Year 2023
+> 🏆 38 Contributions in the Year 2023
  > 
 > 📦 333.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 19 Public Repositories 
  > 
 > 🔑 16 Private Repositories  
  > 
@@ -85,9 +85,9 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Monday       19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.67% 
 Tuesday      25 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Wednesday    30 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Wednesday    31 commits     █████░░░░░░░░░░░░░░░░░░░░   20.67% 
 Thursday     21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
 Friday       21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
 Saturday     17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.33% 
@@ -102,15 +102,15 @@ Sunday       16 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-Dart                     9 hrs 35 mins       ████████████████████████░   99.27% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42% 
-Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
+Dart                     11 hrs 11 mins      ████████████████████████░   97.18% 
+JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.55% 
+Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
 
 🔥 Editors: 
-VS Code                  9 hrs 39 mins       █████████████████████████   100.0%
+VS Code                  11 hrs 30 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      9 hrs 39 mins       █████████████████████████   100.0%
+Mac                      11 hrs 30 mins      █████████████████████████   100.0%
 
 ```
 
@@ -127,7 +127,7 @@ PHP                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2023 00:47:50 UTC
+ Last Updated on 02/02/2023 00:40:37 UTC
 <!--END_SECTION:waka-->
 
 
