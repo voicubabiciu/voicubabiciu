@@ -63,7 +63,7 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C377%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C378%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -73,7 +73,7 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 
 > 📦 354.2 kB Used in GitHub's Storage 
  > 
-> 🏆 30 Contributions in the Year 2024
+> 🏆 31 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -84,21 +84,21 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                555 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-🌆 Daytime                1271 commits        ██████████░░░░░░░░░░░░░░░   41.04 % 
+🌞 Morning                555 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+🌆 Daytime                1271 commits        ██████████░░░░░░░░░░░░░░░   41.03 % 
 🌃 Evening                402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-🌙 Night                  869 commits         ███████░░░░░░░░░░░░░░░░░░   28.06 % 
+🌙 Night                  870 commits         ███████░░░░░░░░░░░░░░░░░░   28.08 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   517 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
 Tuesday                  472 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Wednesday                655 commits         █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-Thursday                 427 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Friday                   483 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Wednesday                655 commits         █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+Thursday                 427 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Friday                   483 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
 Saturday                 240 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Sunday                   303 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Sunday                   304 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
 ```
 
 
@@ -108,13 +108,14 @@ Sunday                   303 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Bucharest
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+BibTeX                   49 mins             ████████████████████████░   94.62 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  52 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      52 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -130,7 +131,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/01/2024 00:49:32 UTC
+ Last Updated on 08/01/2024 00:47:26 UTC
 <!--END_SECTION:waka-->
 
 
