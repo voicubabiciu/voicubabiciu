@@ -63,7 +63,7 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C527%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C532%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -73,7 +73,7 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 
 > 📦 406.9 kB Used in GitHub's Storage 
  > 
-> 🏆 650 Contributions in the Year 2024
+> 🏆 651 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -81,43 +81,6 @@ final Map<String, dynamic> voicu = <String, dynamic>{
  > 
 > 🔑 21 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                607 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-🌆 Daytime                1432 commits        ██████████░░░░░░░░░░░░░░░   38.55 % 
-🌃 Evening                548 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-🌙 Night                  1128 commits        ████████░░░░░░░░░░░░░░░░░   30.36 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   604 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Tuesday                  585 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-Wednesday                746 commits         █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-Thursday                 489 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Friday                   576 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Saturday                 307 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-Sunday                   408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Bucharest
-
-💬 Programming Languages: 
-Dart                     5 hrs 14 mins       █████████████████████████   99.76 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 15 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      5 hrs 15 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -131,7 +94,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2024 00:38:46 UTC
+ Last Updated on 22/08/2024 00:39:32 UTC
 <!--END_SECTION:waka-->
 
 
