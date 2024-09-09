@@ -63,8 +63,6 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C532%20hrs%2053%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.0%20million%20lines%20of%20code-blue)
@@ -73,7 +71,7 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 
 > 📦 407.0 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 673 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -81,42 +79,6 @@ final Map<String, dynamic> voicu = <String, dynamic>{
  > 
 > 🔑 21 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                532 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-🌆 Daytime                1428 commits        ██████████░░░░░░░░░░░░░░░   39.10 % 
-🌃 Evening                546 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-🌙 Night                  1146 commits        ████████░░░░░░░░░░░░░░░░░   31.38 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   586 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Tuesday                  538 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Wednesday                742 commits         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-Thursday                 488 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Friday                   577 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Saturday                 311 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Sunday                   410 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Bucharest
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -130,7 +92,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2024 00:44:20 UTC
+ Last Updated on 09/09/2024 00:42:21 UTC
 <!--END_SECTION:waka-->
 
 
