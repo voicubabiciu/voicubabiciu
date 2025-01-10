@@ -63,8 +63,6 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C533%20hrs%2058%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.5%20million%20lines%20of%20code-blue)
@@ -73,48 +71,14 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 
 > 📦 502.6 kB Used in GitHub's Storage 
  > 
+> 🏆 11 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 22 Public Repositories 
  > 
 > 🔑 22 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                545 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-🌆 Daytime                1392 commits        █████████░░░░░░░░░░░░░░░░   37.09 % 
-🌃 Evening                547 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-🌙 Night                  1269 commits        ████████░░░░░░░░░░░░░░░░░   33.81 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   605 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Tuesday                  565 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Wednesday                754 commits         █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Thursday                 498 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Friday                   586 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-Saturday                 332 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Sunday                   413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Bucharest
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -128,7 +92,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/01/2025 00:43:56 UTC
+ Last Updated on 10/01/2025 00:45:07 UTC
 <!--END_SECTION:waka-->
 
 
