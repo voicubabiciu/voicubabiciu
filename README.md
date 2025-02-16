@@ -63,15 +63,15 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C533%20hrs%2058%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 537.9 kB Used in GitHub's Storage 
+> 📦 538.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 51 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -79,56 +79,20 @@ final Map<String, dynamic> voicu = <String, dynamic>{
  > 
 > 🔑 22 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                545 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-🌆 Daytime                1393 commits        █████████░░░░░░░░░░░░░░░░   36.74 % 
-🌃 Evening                547 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-🌙 Night                  1306 commits        █████████░░░░░░░░░░░░░░░░   34.45 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   611 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Tuesday                  570 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Wednesday                759 commits         █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-Thursday                 504 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Friday                   592 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Saturday                 337 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Sunday                   418 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Bucharest
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Dart                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
 
 
- Last Updated on 15/02/2025 00:42:58 UTC
+ Last Updated on 16/02/2025 00:48:05 UTC
 <!--END_SECTION:waka-->
 
 
