@@ -63,13 +63,17 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C533%20hrs%2058%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 584.6 kB Used in GitHub's Storage 
+> 📦 585.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 153 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -77,6 +81,42 @@ final Map<String, dynamic> voicu = <String, dynamic>{
  > 
 > 🔑 23 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                549 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+🌆 Daytime                1394 commits        █████████░░░░░░░░░░░░░░░░   35.79 % 
+🌃 Evening                549 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+🌙 Night                  1403 commits        █████████░░░░░░░░░░░░░░░░   36.02 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   625 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Tuesday                  584 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Wednesday                776 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+Thursday                 519 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Friday                   605 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Saturday                 353 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Sunday                   433 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Bucharest
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -90,7 +130,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2025 00:51:28 UTC
+ Last Updated on 23/05/2025 00:51:57 UTC
 <!--END_SECTION:waka-->
 
 
