@@ -16,26 +16,26 @@ final Map<String, dynamic> voicu = <String, dynamic>{
         'specialization': 'Software Engineering',
         'level': 'Master degree',
         'startYear': DateTime.utc(2022),
-        'endYear': DateTime.utc(2024),
+        'endYear': DateTime.utc(2024)
       },
       {
         'university': 'Techical University of Cluj Napoca',
         'specialization': 'Computer science',
         'level': 'Bachelor degree',
         'startYear': DateTime.utc(2018),
-        'endYear': DateTime.utc(2022),
+        'endYear': DateTime.utc(2022)
       },
       {
         'university': 'Techical University of Cluj Napoca',
         'specialization': 'Computer science',
         'level': 'PhD degree',
-        'startYear': DateTime.utc(2026),
-      },
+        'startYear': DateTime.utc(2026)
+      }
     ],
     'experience': <String>[
       'Flutter developer @ Yopeso Romania',
       'Mobile developer @ Indeco Soft',
-      'Mobile developer @ Creative Space',
+      'Mobile developer @ Creative Space'
     ]
   };
   
