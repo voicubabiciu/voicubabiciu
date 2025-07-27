@@ -18,12 +18,18 @@ final Map<String, dynamic> voicu = <String, dynamic>{
         'startYear': DateTime.utc(2022),
         'endYear': DateTime.utc(2024),
       },
-        {
+      {
         'university': 'Techical University of Cluj Napoca',
         'specialization': 'Computer science',
         'level': 'Bachelor degree',
         'startYear': DateTime.utc(2018),
         'endYear': DateTime.utc(2022),
+      },
+      {
+        'university': 'Techical University of Cluj Napoca',
+        'specialization': 'Computer science',
+        'level': 'PhD degree',
+        'startYear': DateTime.utc(2026),
       },
     ],
     'experience': <String>[
