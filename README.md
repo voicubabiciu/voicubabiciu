@@ -77,7 +77,7 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 
 > 📦 599.8 kB Used in GitHub's Storage 
  > 
-> 🏆 327 Contributions in the Year 2025
+> 🏆 328 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -85,6 +85,42 @@ final Map<String, dynamic> voicu = <String, dynamic>{
  > 
 > 🔑 24 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                549 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+🌆 Daytime                1398 commits        █████████░░░░░░░░░░░░░░░░   34.37 % 
+🌃 Evening                559 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+🌙 Night                  1562 commits        ██████████░░░░░░░░░░░░░░░   38.40 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   648 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Tuesday                  605 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Wednesday                798 commits         █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+Thursday                 540 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Friday                   629 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Saturday                 383 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Sunday                   465 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Bucharest
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -98,7 +134,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2025 00:54:34 UTC
+ Last Updated on 04/11/2025 00:51:34 UTC
 <!--END_SECTION:waka-->
 
 
