@@ -69,6 +69,8 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 ![raspberry](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C534%20hrs%207%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.49%20million%20lines%20of%20code-blue?style=flat)
@@ -77,7 +79,7 @@ final Map<String, dynamic> voicu = <String, dynamic>{
 
 > 📦 702.7 kB Used in GitHub's Storage 
  > 
-> 🏆 39 Contributions in the Year 2026
+> 🏆 40 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -85,6 +87,42 @@ final Map<String, dynamic> voicu = <String, dynamic>{
  > 
 > 🔑 24 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                549 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+🌆 Daytime                1395 commits        ████████░░░░░░░░░░░░░░░░░   33.58 % 
+🌃 Evening                558 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+🌙 Night                  1652 commits        ██████████░░░░░░░░░░░░░░░   39.77 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   660 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Tuesday                  618 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Wednesday                811 commits         █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Thursday                 553 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Friday                   649 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Saturday                 391 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Sunday                   472 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Bucharest
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -98,7 +136,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/02/2026 01:08:56 UTC
+ Last Updated on 03/02/2026 01:09:35 UTC
 <!--END_SECTION:waka-->
 
 
